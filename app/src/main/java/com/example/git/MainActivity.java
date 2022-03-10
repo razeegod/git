@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Комментарий
         //Комментарий 2
-        //коментарий 3
     }
 }
